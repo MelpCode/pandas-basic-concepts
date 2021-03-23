@@ -1,4 +1,16 @@
 # pandas-basic-concepts
+  
+## Requerimientos:
+  
+  - Instalar pandas, numpy:
+  
+```
+  pip install pandas
+```
+
+```
+  pip install numpy
+```
 
 
 ## NOTAS:
